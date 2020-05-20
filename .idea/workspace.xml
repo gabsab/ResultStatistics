@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce196af6-adbc-4973-90d1-0b55cfd140a0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/gabsab.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bayesian_Gauss_update.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H_sect_process.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Properties_Cpolygonal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RHS_sectionProperties.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RHS_section_Properties.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pd_excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pd_excel_b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pd_excel_scott_bw.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ResultStatistics.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ResultStatistics.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,6 +21,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="gabsab &lt;ga.sabau@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1PK1TZkxY4Y1OWSfnJYnt0rqX2F" />
@@ -248,6 +242,13 @@
       <option name="presentableId" value="Default" />
       <updated>1535632517162</updated>
     </task>
+    <task id="LOCAL−00001" summary="First update">
+      <created>1589978458311</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1589978458311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -262,5 +263,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First update" />
+    <option name="LAST_COMMIT_MESSAGE" value="First update" />
   </component>
 </project>
